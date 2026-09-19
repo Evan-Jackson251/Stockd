@@ -1,2 +1,0 @@
-# Stockd
-Food restocking program
